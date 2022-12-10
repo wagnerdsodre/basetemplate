@@ -1,0 +1,15 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": 3,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.largeFileOptimizations": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+   "workbench.colorTheme": "Dark+ Tailwind",
+  "explorer.compactFolders": false,
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "javascript.preferences.quoteStyle": "single",
+  "editor.snippetSuggestions": "top",
+}
